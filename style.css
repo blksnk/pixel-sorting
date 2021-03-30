@@ -1,0 +1,17 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  overflow: hidden;
+}
+
+body,
+html {
+  min-height: 100vh;
+  max-height: 100vh;
+}
+
+canvas {
+  width: 100%;
+  height: 100%;
+}
